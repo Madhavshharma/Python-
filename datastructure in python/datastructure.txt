@@ -1,0 +1,4 @@
+n the world of data science, where we're surrounded by tons of information, organizing and understanding data is crucial. Python, a friendly and flexible programming language, comes equipped with tools called data structures that make dealing with data much easier.
+
+Naming and Storing Information: Variables
+Variables are like labeled containers that hold information. Think of them as sticky notes where we jot down data for later use. In Python, creating a variable is as simple as giving a name to your information.
