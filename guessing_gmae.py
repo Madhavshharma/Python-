@@ -15,12 +15,6 @@ if guess<PredeinedNumber:
     
 elif guess>PredeinedNumber:
     print("Please Guess lower")
-    print("Please Guess Higher Number")
-    guess=int(input("enter the number again"))
-    if guess==PredeinedNumber:
-        print("you have guessed right Now")
-    else:
-        print("Sorry, you have not guessed the right Number again")
     
 else:
     print("great you have guess right")
